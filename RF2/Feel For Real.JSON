@@ -648,7 +648,7 @@
     "Steering Wheel Maximum Rotation Default#":"Default maximum wheel range to use when not read from driver, from 40 to 1440 degrees",
     "Steering Wheel Maximum Rotation from Driver":false,
     "Steering Wheel Maximum Rotation from Driver#":"Whether to read the steering wheel rotation from the wheel driver, if possible",
-    "Steering Wheel Range":540,
+    "Steering Wheel Range":576,
     "Steering Wheel Range#":"Degrees of steering wheel rotation, both visual and physical (if available)",
     "Steering Wheel Software Rotation":true,
     "Steering Wheel Software Rotation#":"Whether to limit the maximum steering wheel rotation in software",
@@ -1317,8 +1317,8 @@
       207
     ],
     "Control - Speed Limiter":[
-      0,
-      57
+      2,
+      39
     ],
     "Control - Spin Recovery":[
       0,
